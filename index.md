@@ -1,10 +1,8 @@
 ###Wenhao Lu's first CS193 Lab
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Fun
+- Cool
+- Full of knowledge
 
 ## Welcome to GitHub Pages
 
