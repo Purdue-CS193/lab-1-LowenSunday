@@ -1,4 +1,4 @@
-###Wenhao Lu's first CS193 Lab
+### Wenhao Lu's first CS193 Lab
 
 - Fun
 - Cool
